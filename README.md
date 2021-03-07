@@ -22,3 +22,8 @@
 
 <img src = 'Ingredients_Graph.png'>
 
+## Visulization of Node embeddings 
+
+<img src = 'tsne_node_embeddings.png'>
+
+
