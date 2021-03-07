@@ -8,17 +8,17 @@
     'irish', 'korean', 'moroccan', 'russian'. 
 
 
-<img src = 'Figures/Input_Cuisine_dataset.png'>
+<img src = 'Input_Cuisine_dataset.png'>
 
 ## Input for Network Graph
     Input for network graph was created where there is a source ingredient,
     corresponding target ingredient and their corresponding weight based on
     their presence on ingredients.
 
-<img src = 'Figures/Graph_input_with_Weight.png'>
+<img src = 'Graph_input_with_Weight.png'>
 
 
 ## Graph Network for source and target with weight equal to 60 only.
 
-<img src = 'Figures/Ingredients_Graph.png'>
+<img src = 'Ingredients_Graph.png'>
 
